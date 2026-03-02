@@ -1,9 +1,9 @@
 #### CONNECT WITH ME
 
 <p align="left">
-  <a href="www.linkedin.com/in/kyle-demavivas-968044331"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" /></a>&nbsp;
-  <a href="https://github.com/KyleDemavivas"><img src="https://skillicons.dev/icons?i=github" alt="Github" /></a>&nbsp;
-  <a href="demavivas.kyle.c@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/kyle-demavivas-968044331"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="30" /></a>&nbsp;
+  <a href="https://github.com/KyleDemavivas"><img src="https://skillicons.dev/icons?i=github" alt="Github" width="30" /></a>&nbsp;
+  <a href="mailto:demavivas.kyle.c@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="30" /></a>&nbsp;
 </p>
 
 
@@ -44,3 +44,15 @@ I have hands on experience in Full Stack Development, Web Development, and IT In
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="GIT" /></a>&nbsp;
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="Github" /></a>&nbsp;
 </p>
+
+## PROJECTS
+
+### Lot Traceability System
+A web-based system that digitized manual paper-based production tracking.
+
+🔗 [Repository](https://github.com/KyleDemavivas/lotTraceabilityProject)
+
+### Unitvet
+Organizational Website for Unified TVET of Philippines Inc.
+
+🔗 [Live Site](https://unitvet.org/)
