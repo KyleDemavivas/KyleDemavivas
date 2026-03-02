@@ -10,4 +10,4 @@ I have hands on experience in Full Stack Development, Web Development, and IT In
 
 ## LANGUAGES
 
-[![LANGUAGES](https://skillicons.dev/icons?i=php,jquery,python,cpp,cs,bootstrap,java,js,html,css&perline=5)]
+![LANGUAGES](https://skillicons.dev/icons?i=php,jquery,python,cpp,cs,bootstrap,java,js,html,css&perline=5)
