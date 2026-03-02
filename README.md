@@ -10,16 +10,28 @@ I have hands on experience in Full Stack Development, Web Development, and IT In
 
 ## LANGUAGES
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" /></a>&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=lua" alt="Lua" /></a>&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+</p>
+
+## TOOLS
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" /></a>&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" /></a>&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" /></a>&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="GIT" /></a>&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="Github" /></a>&nbsp;
 </p>
