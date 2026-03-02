@@ -1,3 +1,12 @@
+#### CONNECT WITH ME
+
+<p align="left">
+  <a href="www.linkedin.com/in/kyle-demavivas-968044331"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" /></a>&nbsp;
+  <a href="https://github.com/KyleDemavivas"><img src="https://skillicons.dev/icons?i=github" alt="Github" /></a>&nbsp;
+  <a href="demavivas.kyle.c@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>&nbsp;
+</p>
+
+
 # ABOUT ME
 
 My name is Kyle C. Demavivas, I am an aspiring Software Engineer and currently working as a junior system developer.
