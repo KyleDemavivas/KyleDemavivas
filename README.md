@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/kyle-demavivas-968044331"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="30" /></a>&nbsp;
   <a href="mailto:demavivas.kyle.c@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="30" /></a>&nbsp;
   <br>
-  <h2>Viber: +639959537531</h2>
+  <h4>Viber: +639959537531</h4>
 </p>
 
 
