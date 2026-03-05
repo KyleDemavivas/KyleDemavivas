@@ -40,8 +40,6 @@ I have hands on experience in Full Stack Development, Web Development, and IT In
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>&nbsp;
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>&nbsp;
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" /></a>&nbsp;
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" /></a>&nbsp;
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" /></a>&nbsp;
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="GIT" /></a>&nbsp;
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="Github" /></a>&nbsp;
 </p>
